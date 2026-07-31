@@ -1,4 +1,15 @@
-# [Awesome Python](https://awesome-python.com/)
+# # Take the first number input from the user
+number 1 = float(input("Enter first number: "))
+
+# Take another number input from the user
+number 2 = float(input("Enter second number: "))
+
+# Add the two numbers together
+sum_result = number1 + number2
+
+# Print the result on the screen
+print(f"The sum of the two numbers is: {sum_result}")
+[Awesome Python](https://awesome-python.com/)
 
 An opinionated guide to the best Python frameworks, libraries, tools, and resources.
 

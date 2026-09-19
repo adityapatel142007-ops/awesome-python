@@ -1,0 +1,5 @@
+		long n = sc.nextLong();
+		long sum = n*(n+1)/2;
+		System.out.println(sum);		
+	}
+}
